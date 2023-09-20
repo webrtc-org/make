@@ -23,3 +23,4 @@ https://gist.github.com/gilbertalgordo
 [![CodeQL](https://github.com/webrtc-org/make/actions/workflows/codeql.yml/badge.svg)](https://github.com/webrtc-org/make/actions/workflows/codeql.yml)
 [![Microsoft Defender For Devops](https://github.com/webrtc-org/make/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/webrtc-org/make/actions/workflows/defender-for-devops.yml)
 [![MakeCode Arcade Release](https://github.com/webrtc-org/make/actions/workflows/makecode-release.yml/badge.svg)](https://github.com/webrtc-org/make/actions/workflows/makecode-release.yml)
+[![PSScriptAnalyzer](https://github.com/webrtc-org/make/actions/workflows/powershell.yml/badge.svg)](https://github.com/webrtc-org/make/actions/workflows/powershell.yml)
