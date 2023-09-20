@@ -21,3 +21,4 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 https://gist.github.com/gilbertalgordo
 [![CodeQL](https://github.com/webrtc-org/make/actions/workflows/codeql.yml/badge.svg)](https://github.com/webrtc-org/make/actions/workflows/codeql.yml)
+[![Microsoft Defender For Devops](https://github.com/webrtc-org/make/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/webrtc-org/make/actions/workflows/defender-for-devops.yml)
